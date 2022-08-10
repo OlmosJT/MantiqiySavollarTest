@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_home">
+        <item name="android:background">@drawable/shape_btn</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="fontFamily">@font/yantramanav_bold</item>
+        <item name="fontWeight">700</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="elevation">@dimen/cardview_compat_inset_shadow</item>
+    </style>
+</resources>
